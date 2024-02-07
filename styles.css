@@ -112,6 +112,11 @@ button{
     flex-direction: column;
     flex: wrap;
     align-items: center;
+    width: 300px;
+}
+
+.sub-text-2{
+    text-align: center;
 }
 
 .quote-section{
